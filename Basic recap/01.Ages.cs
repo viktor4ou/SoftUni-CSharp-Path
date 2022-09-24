@@ -1,8 +1,8 @@
-namespace ConsoleApp5
+namespace Ages
 {
     using System;
 
-    public class Program
+    public class Ages
     {
         static void Main()
         {
