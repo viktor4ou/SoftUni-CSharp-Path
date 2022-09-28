@@ -10,4 +10,4 @@ namespace Metars_to_Kilometars
             Console.WriteLine($"{kilometars:f2}");
         }
     }
-}
+} 
